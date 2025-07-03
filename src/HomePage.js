@@ -1,6 +1,6 @@
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-white text-gray-800">
+   <div className="min-h-screen bg-gray-900 text-gray-100">
 <header className="p-6 shadow-md flex items-center justify-between w-full">
   <div className="flex items-center space-x-4">
     <img src="logo.png" alt="Logótipo" className="h-10" />

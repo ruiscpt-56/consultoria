@@ -1,6 +1,6 @@
 export default function HomePageEN() {
   return (
-    <div className="min-h-screen bg-white text-gray-800">
+   <div className="min-h-screen bg-gray-900 text-gray-100">
       <header className="p-6 shadow-md flex items-center space-x-4">
         <img src="logo.png" alt="Logo" className="h-10" />
         <h1 className="text-2xl font-bold">Rui Camposinhos | Chartered Civil Engineer</h1>
